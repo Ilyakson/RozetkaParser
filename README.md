@@ -1,7 +1,7 @@
 # Django Parser
 
 Django Parser is a web scraping tool built with Django framework that extracts product information from an e-commerce website and stores it in a database. It uses Selenium and BeautifulSoup libraries for web scraping and Django ORM for database operations.
-
+The parse_product_info.py file has a limit of 100 links at a time
 ## Installation
 
 ```shell
