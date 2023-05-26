@@ -12,7 +12,6 @@ source venv/bin/activate (on macOS)
 pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
-python manage.py createsuperuser
 python manage.py runserver
 python parse_links.py
 python parse_product_info.py
