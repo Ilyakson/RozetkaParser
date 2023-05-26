@@ -5,7 +5,7 @@ Django Parser is a web scraping tool built with Django framework that extracts p
 ## Installation
 
 ```shell
-git clone https://github.com/your-username/django-parser.git
+git clone https://github.com/Ilyakson/RozetkaParser.git
 python -m venv venv
 venv\Scripts\activate (on Windows)
 source venv/bin/activate (on macOS)
